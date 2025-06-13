@@ -1,0 +1,5 @@
+
+{"level":"ERROR","timestamp":"2025-06-13T11:32:17.812692","namespace":"mcp_agent.llm.providers.augmented_llm_openai.default","message":"Error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}"}
+{"level":"ERROR","timestamp":"2025-06-13T11:33:08.744166","namespace":"mcp_agent.llm.providers.augmented_llm_openai.default","message":"Error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}"}
+{"level":"ERROR","timestamp":"2025-06-13T11:34:04.177903","namespace":"mcp_agent.llm.providers.augmented_llm_openai.default","message":"Error: Error code: 400 - {'error': {'message': 'Model Not Exist', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"}
+{"level":"ERROR","timestamp":"2025-06-13T11:34:46.292265","namespace":"mcp_agent.llm.providers.augmented_llm_openai.default","message":"Error: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}"}

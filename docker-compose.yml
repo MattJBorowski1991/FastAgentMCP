@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  fastagent:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONPATH=/app
+    # Default command to run generic agent
+    command: uv run agent.py
