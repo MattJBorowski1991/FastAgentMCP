@@ -1,6 +1,6 @@
 # FastAgentMcp
 
-FastAgent implementation with specialized workflows for various AI agent tasks.
+Fast-agent implementation with specialized workflows for various AI agent tasks.
 
 ## 📦 Docker Setup
 
